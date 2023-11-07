@@ -25,6 +25,7 @@ public class App
 
             Scanner tastiera = new Scanner(System.in);
             
+            
             String userString = "";
             do {
                 System.out.println("> Digita D per visualizzare la disponibilità, A per acquistare un biglietto o Q per uscire: ");
